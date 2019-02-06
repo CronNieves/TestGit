@@ -1,0 +1,27 @@
+.locationCont{
+    width: 100%;
+    height: 35px;
+    text-align: left;
+    padding-left: 10px;
+    color: #888;
+}
+
+.weatherLocationCont{
+    margin-top: 10px !important;
+    width: 400px;
+    font-family: Roboto, sans-serif;
+    margin: auto;
+    border: 1px solid rgba(255,255,255, 0.1);
+    box-shadow: 0 5px 12px 2px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 0 5px 12px 2px rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: 0 5px 12px 2px rgba(0, 0, 0, 0.4);
+    -ms-box-shadow: 0 5px 12px 2px rgba(0, 0, 0, 0.4);
+    -o-box-shadow: 0 5px 12px 2px rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    background-color: #e0e0e0;
+    border: 2px solid rgb(200,200,200);
+}
+
+.divider {
+
+}
